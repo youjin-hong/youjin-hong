@@ -36,6 +36,6 @@
 
 
 ### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youjin-hong&layout=compact)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______)
