@@ -5,6 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoujin-hong%2Fyoujin-hong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🙇 안녕하세요, Front-end Programmer로 성장해나가고 있는 홍유진입니다!
+[홍유진의 포트폴리오 바로가기 ➡️](https://lovely-juniper-c4d.notion.site/19d1c6afab8c80419593ec2760f7a08a)
 
 <!-- Body -->
 
