@@ -23,11 +23,11 @@
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![nodejs](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**🎨 Styling** <br />
+**🎨 Styling**  
 ![tailwindcss](https://img.shields.io/badge/tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![styledcomponents](https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=white)
 
-**🛠️ Infra and Tools** <br />
+**🛠️ Infra and Tools**  
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white)
