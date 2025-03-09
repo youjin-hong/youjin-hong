@@ -9,6 +9,11 @@
 
 <!-- Body -->
 
+### 🌱 Experience
+광운대학교 IDEA Lab 개발 인턴 (2023.08~2024.07)
+프로그래머스 데브코스: 클라우드 기반 프론트엔드 엔지니어링(1회차) (2024.7.15~2024.12.13)
+
+
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks** <br />
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
