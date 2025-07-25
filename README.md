@@ -1,11 +1,5 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
-
-
-### 🙇 안녕하세요, Front-end Programmer로 성장해나가고 있는 홍유진입니다
-[홍유진의 노션 포트폴리오 🔗](https://lovely-juniper-c4d.notion.site/19d1c6afab8c80419593ec2760f7a08a)
-
 <!-- Body -->
 <br />
 
