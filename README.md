@@ -37,6 +37,5 @@
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 <br />
 
-### 🚌 Algorithm
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=youjin-hong&show_icons=true&theme=radical)
 
