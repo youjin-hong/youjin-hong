@@ -17,7 +17,7 @@
 
 **📚 Frameworks & Libraries**  
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
-![reactquery](https://img.shields.io/badge/react%20query-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white)
+![tanstack query](https://img.shields.io/badge/tanstack%20query-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white)
 ![zustand](https://img.shields.io/badge/zustand-443E38.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![nodejs](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
