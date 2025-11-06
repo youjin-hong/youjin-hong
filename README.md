@@ -11,13 +11,13 @@
 <br />
 
 ### 🦾 Skills
-**🧑‍💻 Languages**  
+**Languages**  
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 
-**📚 Frameworks & Libraries**  
+**Frameworks & Libraries**  
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![tanstack query](https://img.shields.io/badge/tanstack%20query-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white)
 ![zustand](https://img.shields.io/badge/zustand-443E38.svg?&style=for-the-badge&logo=react&logoColor=white)
@@ -25,14 +25,14 @@
 ![nodejs](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
 
-**💾 Database**  
+**Database**  
 ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
-**🎨 Styling**  
+**Styling**  
 ![tailwindcss](https://img.shields.io/badge/tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![styledcomponents](https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=white)
 
-**🛠️ Tools**  
+**Tools**  
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
